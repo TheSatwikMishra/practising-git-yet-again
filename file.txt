@@ -4,5 +4,10 @@ int main(){
 cout<<"Hello World";
 cout<<"hello Satwik";
 cout<<"Hello friend";
+int sum=0;
+for(int i=0;i<n;i++){
+sum+=i;
+}
+cout<<sum<<"\n";
 return 0;
 }
